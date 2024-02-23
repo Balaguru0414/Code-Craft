@@ -18,6 +18,11 @@
   background: #444;
 }
 /* ------------------------------------------ */
+.loading-text{
+  @apply  text-5xl animate-google font-bold 
+}
+
+
 .editor-container {
   @apply grow basis-0 flex flex-col p-2
   
